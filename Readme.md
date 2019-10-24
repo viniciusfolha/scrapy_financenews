@@ -132,9 +132,16 @@ Result:
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 # Future work
+
+Improve the monitor checks and generate reports
+
 Save database URI on Environment Variable for security 
+
 Solve the problem with infinity-scrolling
+
 On settings, set better params for request
+
 Enable proxy to avoid ban. :)
 
+Create a job
 
