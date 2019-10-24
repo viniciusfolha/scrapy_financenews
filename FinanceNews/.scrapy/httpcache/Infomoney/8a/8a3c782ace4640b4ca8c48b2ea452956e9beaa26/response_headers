@@ -1,0 +1,14 @@
+Server: nginx
+Date: Thu, 24 Oct 2019 03:36:27 GMT
+Content-Type: text/html; charset=UTF-8
+X-Hacker: If you're reading this, you should visit wpvip.com/careers and apply to join the fun, mention this header.
+X-Powered-By: WordPress.com VIP <https://wpvip.com>
+Access-Control-Allow-Origin: https://www.infomoney.com.br
+Link: <https://www.infomoney.com.br/wp-json/>; rel="https://api.w.org/"
+Content-Encoding: gzip
+X-Rq: gru1 91 203 3174
+Cache-Control: max-age=300, must-revalidate
+Age: 0
+X-Cache: miss
+Vary: Accept-Encoding
+Accept-Ranges: bytes

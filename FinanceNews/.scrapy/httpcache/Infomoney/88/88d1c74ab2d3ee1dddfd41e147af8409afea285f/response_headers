@@ -1,0 +1,8 @@
+Server: nginx
+Date: Sun, 20 Oct 2019 21:37:49 GMT
+Content-Type: text/html; charset=utf-8
+Location: https://www.infomoney.com.br/mercados/
+X-Rq: gru1 86 200 3091
+Cache-Control: max-age=300, must-revalidate
+Age: 0
+X-Cache: miss

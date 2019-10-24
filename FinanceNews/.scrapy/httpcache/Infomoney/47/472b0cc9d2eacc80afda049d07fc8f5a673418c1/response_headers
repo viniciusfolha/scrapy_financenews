@@ -1,0 +1,8 @@
+Server: nginx
+Date: Sun, 20 Oct 2019 21:37:48 GMT
+Content-Type: text/html; charset=utf-8
+Location: https://www.infomoney.com.br/robots.txt
+X-Rq: gru1 82 50 3147
+Cache-Control: max-age=300, must-revalidate
+Age: 0
+X-Cache: miss

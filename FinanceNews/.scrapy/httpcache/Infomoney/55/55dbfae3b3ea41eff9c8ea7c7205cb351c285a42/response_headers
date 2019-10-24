@@ -1,0 +1,8 @@
+Server: nginx
+Date: Thu, 24 Oct 2019 03:36:25 GMT
+Content-Type: text/html; charset=utf-8
+Location: https://www.infomoney.com.br/negocios/
+X-Rq: gru1 91 203 3174
+Cache-Control: max-age=300, must-revalidate
+Age: 0
+X-Cache: miss
