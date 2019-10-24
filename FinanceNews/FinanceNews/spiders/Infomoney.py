@@ -3,6 +3,7 @@ import scrapy
 import w3lib.html
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
+import datetime
 
 class InfomoneySpider(CrawlSpider):
     name = 'Infomoney'
@@ -56,7 +57,8 @@ class InfomoneySpider(CrawlSpider):
             'subheadings': subheadings,
             'num_links': num_links,
             'company_codes': company_codes,
-            'meta': response.meta
+            'meta': response.meta,
+            'collect_date': datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S-03:00")
         }
 
         for page in navigation_links:

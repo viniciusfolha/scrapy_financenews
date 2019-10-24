@@ -22,3 +22,4 @@ class FinancenewsItem(scrapy.Item):
     num_links = scrapy.Field()
     company_codes = scrapy.Field()
     meta = scrapy.Field()
+    collect_date = scrapy.Field
